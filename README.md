@@ -47,6 +47,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/DTZ-David/DTZ-David/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 
 ###
